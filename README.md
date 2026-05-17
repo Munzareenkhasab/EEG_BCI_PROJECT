@@ -7,7 +7,7 @@ AI-Based EEG Brain Signal Classification using CSP + LDA with Explainable AI and
 ## 🚀 Live Demo
 
 🔗 Streamlit Dashboard:
-(streamlit run app/dashboard.py)
+(https://eegbciproject-cr7jvjjhvsqmnpjyyygyes.streamlit.app/)
 
 ---
 
